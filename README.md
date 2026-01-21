@@ -226,7 +226,7 @@ The `/cv.html` page is optimized for printing and PDF export:
 - One-click "Print to PDF" button
 
 **To generate PDF:**
-1. Visit `https://[YOUR-USERNAME].github.io/cv.html`
+1. Visit `https://[ ].github.io/cv.html`
 2. Click "Print / Save as PDF" or press Ctrl+P / Cmd+P
 3. Select "Save as PDF" as destination
 4. Adjust margins if needed
@@ -277,15 +277,6 @@ Add tracking code before `</head>` in `index.html` and `cv.html`
 ## 📝 License
 
 This template is free to use for academic purposes. Attribution appreciated but not required.
-
-## 🤝 Support
-
-For issues or questions:
-1. Check this README
-2. Inspect browser console for errors
-3. Validate JSON files
-4. Check file paths and permissions
-
 ---
 
 **Last Updated:** January 2026
