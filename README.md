@@ -18,7 +18,7 @@ A professional academic CV website built for GitHub Pages. Clean, modern, and op
    git add .
    git commit -m "Initial commit: Academic CV website"
    git branch -M main
-   git remote add origin https://github.com/[YOUR-USERNAME]/[YOUR-USERNAME].github.io.git
+   git remote add origin https://github.com/....
    git push -u origin main
    ```
 
@@ -29,7 +29,7 @@ A professional academic CV website built for GitHub Pages. Clean, modern, and op
    - Click Save
 
 4. **Access your website**
-   - Your site will be live at: `https://[YOUR-USERNAME].github.io/`
+   - Your site will be live at: `https://.....github.io/`
    - It may take a few minutes for the first deployment
 
 ### Option 2: Local Development
