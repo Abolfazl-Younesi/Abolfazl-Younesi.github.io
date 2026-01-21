@@ -1,0 +1,269 @@
+[
+    {
+        "type": "journal",
+        "title": "MOSAIC: Mobility-Oriented Scheduling and Intelligent Resource Allocation for IoT",
+        "authors": [
+            "Abolfazl Younesi",
+            "Mehrab Toghani",
+            "Sepideh Safari",
+            "Mohsen Ansari",
+            "Thomas Fahringer"
+        ],
+        "venue": "IEEE Transactions on Mobile Computing",
+        "meta": "Dec 2025",
+        "doi": "https://ieeexplore.ieee.org/document/11278779",
+        "selected": true,
+        "pdf": "files/papers/Younesi_2025_MOSAIC.pdf"
+    },
+    {
+        "type": "journal",
+        "title": "STREAMLINE: Dynamic and resource-efficient auto-tuning of stream processing data pipeline ensembles",
+        "authors": [
+            "Stefan Pedratscher",
+            "Zahra Najafabadi Samani",
+            "Juan Aznar Poveda",
+            "Thomas Fahringer",
+            "Marlon Etheredge",
+            "Abolfazl Younesi",
+            "Juan Jose Durillo Barrionuevo",
+            "Peter Thoman"
+        ],
+        "venue": "Internet of Things",
+        "meta": "vol. 101731, 2025",
+        "doi": "https://www.sciencedirect.com/science/article/pii/S2542660525002458",
+        "selected": true,
+        "pdf": "files/papers/Pedratscher_2025_STREAMLINE.pdf"
+    },
+    {
+        "type": "journal",
+        "title": "HealthCare 5.0: An Industry 5.0 Perspective for Next-Generation Medical Systems with Synergistic Integration of IoT, AI, and 6G",
+        "authors": [
+            "Abolfazl Younesi",
+            "Elyas Oustad",
+            "Mohsen Ansari",
+            "Thomas Fahringer",
+            "Rajkumar Buyya"
+        ],
+        "venue": "Internet of Things",
+        "meta": "2025",
+        "doi": "https://www.sciencedirect.com/science/article/pii/S2542660525003294",
+        "selected": true,
+        "pdf": "files/papers/Younesi_2025_HealthCare50.pdf"
+    },
+    {
+        "type": "journal",
+        "title": "DIST: Distributed Learning-based Energy-Efficient and Reliable Task Scheduling and Resource Allocation in Fog Computing",
+        "authors": [
+            "Elyas Oustad",
+            "Abolfazl Younesi",
+            "Mohsen Ansari",
+            "Sepideh Safari",
+            "Mohammad Arman Soleimani",
+            "Jorg Henkel",
+            "Alireza Ejlali"
+        ],
+        "venue": "IEEE Transactions on Services Computing",
+        "meta": "2025",
+        "doi": "https://ieeexplore.ieee.org/document/10994299",
+        "selected": true,
+        "pdf": "files/papers/Oustad_2025_DIST.pdf"
+    },
+    {
+        "type": "journal",
+        "title": "Moticps: Energy optimization on multi-objective task scheduling in IoT-integrated cyber-physical systems",
+        "authors": [
+            "Abolfazl Younesi",
+            "Elyas Oustad",
+            "Mohammad Abolnejadian",
+            "Mohsen Ansari",
+            "Alireza Ejlali"
+        ],
+        "venue": "IEEE Transactions on Sustainable Computing",
+        "meta": "2025",
+        "doi": "https://ieeexplore.ieee.org/document/10820033",
+        "selected": true,
+        "pdf": "files/papers/Younesi_2025_Moticps.pdf"
+    },
+    {
+        "type": "journal",
+        "title": "A comprehensive survey of convolutions in deep learning: Applications, challenges, and future trends",
+        "authors": [
+            "Abolfazl Younesi",
+            "Mohsen Ansari",
+            "Mohammadamin Fazli",
+            "Alireza Ejlali",
+            "Muhammad Shafique",
+            "Jörg Henkel"
+        ],
+        "venue": "IEEE Access",
+        "meta": "vol. 12, pp. 41180-41218, 2024",
+        "doi": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10466766",
+        "selected": true,
+        "pdf": "files/papers/Younesi_2024_SurveyConvolutions.pdf"
+    },
+    {
+        "type": "journal",
+        "title": "A Novel Levy Walk-based Framework for Scheduling Power-intensive Mobile Edge Computing Tasks",
+        "authors": [
+            "Abolfazl Younesi",
+            "MohammadAmin Fazli",
+            "Alireza Ejlali"
+        ],
+        "venue": "Journal of Grid Computing",
+        "meta": "vol. 22, article 22, 2024",
+        "doi": "https://link.springer.com/article/10.1007/s10723-024-09786-y",
+        "selected": true,
+        "pdf": "files/papers/Younesi_2024_LevyWalk.pdf"
+    },
+    {
+        "type": "conference",
+        "title": "Splitwise: Collaborative Edge--Cloud Inference for LLMs via Lyapunov-Assisted DRL",
+        "authors": [
+            "Abolfazl Younesi",
+            "Abbas Shabrang Maryan",
+            "Elyas Oustad",
+            "Zahra Najafabadi Samani",
+            "Mohsen Ansari",
+            "Thomas Fahringer"
+        ],
+        "venue": "Proceedings of the 18th IEEE/ACM International Conference on Utility and Cloud Computing (UCC)",
+        "meta": "pp. 11, 2025",
+        "doi": "https://doi.org/10.1109/UCC.2025",
+        "selected": true,
+        "pdf": "files/papers/Younesi_2025_Splitwise.pdf"
+    },
+    {
+        "type": "conference",
+        "title": "FedGuard: Leader-Aware Fault-Tolerant Federated Learning in the Cloud--Edge Continuum",
+        "authors": [
+            "Juan Aznar Poveda",
+            "Stefan Pedratscher",
+            "Peter Burger",
+            "Abolfazl Younesi",
+            "Marlon Etheredge",
+            "Zahra Najafabadi Samani",
+            "Peter Thoman",
+            "Thomas Fahringer"
+        ],
+        "venue": "Proceedings of the 18th IEEE/ACM International Conference on Utility and Cloud Computing (UCC)",
+        "meta": "pp. 1-6, 2025",
+        "doi": "https://doi.org/10.1109/UCC.2025",
+        "pdf": "files/papers/Poveda_2025_FedGuard.pdf"
+    },
+    {
+        "type": "conference",
+        "title": "QIGA: Quantum-Inspired Genetic Algorithm for Dynamic Scheduling in Mobile Edge Computing",
+        "authors": [
+            "Sadra Galavani",
+            "Abolfazl Younesi",
+            "Mohsen Ansari"
+        ],
+        "venue": "Proceedings of the 29th International Computer Conference, Computer Society of Iran (CSICC)",
+        "meta": "pp. 1-5, 2025",
+        "doi": "https://doi.org/10.1109/CSICC.2025",
+        "pdf": "files/papers/Galavani_2025_QIGA.pdf"
+    },
+    {
+        "type": "conference",
+        "title": "ARGENT: Energy-Aware Scheduling in Edge Computing Using Energy Valley Optimizer",
+        "authors": [
+            "Mehrab Toghani",
+            "Sareh Maleki",
+            "Abolfazl Younesi",
+            "Sepideh Safari",
+            "Shaahin Hessabi"
+        ],
+        "venue": "Proceedings of the 29th International Computer Conference, Computer Society of Iran (CSICC)",
+        "meta": "pp. 1-6, 2025",
+        "doi": "https://doi.org/10.1109/CSICC.2025",
+        "pdf": "files/papers/Toghani_2025_ARGENT.pdf"
+    },
+    {
+        "type": "conference",
+        "title": "Survey on IoT-based waste management systems",
+        "authors": [
+            "Abolfazl Younesi",
+            "Hamed Shahbazi Fard",
+            "Alireza Belal Yengikand",
+            "Vahid Pezeshki"
+        ],
+        "venue": "Proceedings of the 8th International Conference on Web Research (ICWR)",
+        "meta": "pp. 162-167, 2022",
+        "doi": "https://doi.org/10.1109/ICWR54782.2022.9786246",
+        "pdf": "files/papers/Younesi_2022_WasteManagement.pdf"
+    },
+    {
+        "type": "preprint",
+        "title": "FLARE: Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning",
+        "authors": [
+            "Abolfazl Younesi",
+            "Leon Kiss",
+            "Zahra Najafabadi Samani",
+            "Juan Aznar Poveda",
+            "Thomas Fahringer"
+        ],
+        "venue": "arXiv preprint",
+        "meta": "arXiv:2511.14715, 2025",
+        "doi": "https://arxiv.org/abs/2511.14715",
+        "pdf": "files/papers/Younesi_2025_FLARE.pdf"
+    },
+    {
+        "type": "preprint",
+        "title": "AutoStreamPipe: LLM Assisted Automatic Generation of Data Stream Processing Pipelines",
+        "authors": [
+            "Abolfazl Younesi",
+            "Zahra Najafabadi Samani",
+            "Thomas Fahringer"
+        ],
+        "venue": "arXiv preprint",
+        "meta": "arXiv:2510.23408, 2025",
+        "doi": "https://arxiv.org/abs/2510.23408",
+        "pdf": "files/papers/Younesi_2025_AutoStreamPipe.pdf"
+    },
+    {
+        "type": "preprint",
+        "title": "GAP: Game theory-based approach for reliability and power management in emerging fog computing",
+        "authors": [
+            "Abolfazl Younesi",
+            "Mohsen Ansari",
+            "Alireza Ejlali",
+            "Mohammad Amin Fazli",
+            "Muhammad Shafique",
+            "Jörg Henkel"
+        ],
+        "venue": "arXiv preprint",
+        "meta": "arXiv:2412.11310, 2024",
+        "doi": "https://arxiv.org/abs/2412.11310",
+        "pdf": "files/papers/Younesi_2024_GAP.pdf"
+    },
+    {
+        "type": "preprint",
+        "title": "CNN-FEET: Efficient CNN in Federated Learning for Energy-Efficiency in Emerging Fault-Tolerant Fog-Edge Environments",
+        "authors": [
+            "Abolfazl Younesi",
+            "Mahdi Barati",
+            "Mohsen Ansari",
+            "Mohammad Amin Fazli",
+            "Alireza Ejlali",
+            "Muhammad Shafique",
+            "Jörg Henkel"
+        ],
+        "venue": "Authorea Preprints",
+        "meta": "2024",
+        "doi": "https://doi.org/10.22541/au.171234567.12345678/v1",
+        "pdf": "files/papers/Younesi_2024_CNN_FEET.pdf"
+    },
+    {
+        "type": "preprint",
+        "title": "A transfer learning approach with convolutional neural network for Face Mask Detection",
+        "authors": [
+            "Abolfazl Younesi",
+            "Reza Afrouzian",
+            "Yousef Seyfari"
+        ],
+        "venue": "arXiv preprint",
+        "meta": "arXiv:2310.18928, 2023",
+        "doi": "https://arxiv.org/abs/2310.18928",
+        "pdf": "files/papers/Younesi_2023_FaceMask.pdf"
+    }
+]

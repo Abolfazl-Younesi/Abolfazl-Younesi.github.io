@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Meta Tags for SEO -->
+    <meta property="og:title" content="Abolfazl Younesi - Conference Deadlines">
+    <meta property="og:description" content="Academic Conference Deadlines and Countdowns">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://Abolfazl-Younesi.github.io/deadlines.html">
+    <meta property="og:image" content="https://Abolfazl-Younesi.github.io/Younesi.jpg">
+
+    <title>Conference Deadlines - Abolfazl Younesi</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+
+    <!-- JSON-LD Schema (Simplified for Deadlines) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Conference Deadlines",
+      "description": "List of upcoming academic conference deadlines in Distributed Systems and Software Engineering."
+    }
+    </script>
+</head>
+
+<body>
+    <!-- Skip Link for Accessibility -->
+    <a href="#deadlines-content" class="skip-link">Skip to main content</a>
+
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-brand">Abolfazl Younesi</a>
+            <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-menu">
+                <li><a href="index.html#home">Home</a></li>
+                <li><a href="index.html#news">News</a></li>
+                <li><a href="index.html#publications">Publications</a></li>
+                <li><a href="cv.html">CV</a></li>
+                <li><a href="deadlines.html" class="active">Deadlines</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Header (Matching CV Style) -->
+    <header class="cv-header section-alt">
+        <div class="container">
+            <h1>Conference Deadlines</h1>
+            <p>Countdowns to Distributed Systems, Performance, and Software Engineering conference deadlines.</p>
+            <p class="cv-note">To add/edit a conference, send in a pull request. Deadlines are in Europe/Vienna time.
+            </p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="deadlines-content" class="section">
+        <div class="container">
+
+            <!-- Filters -->
+            <div class="deadline-filters">
+                <h3>Subject Filter:</h3>
+                <div class="filter-chips">
+                    <button class="filter-chip active" data-filter="all">All</button>
+                    <!-- Typical Tags from user request -->
+                    <button class="filter-chip" data-filter="distributed systems">DS</button>
+                    <button class="filter-chip" data-filter="software engineering">SE</button>
+                    <button class="filter-chip" data-filter="performance">PER</button>
+                    <button class="filter-chip" data-filter="security">SEC</button>
+                    <button class="filter-chip" data-filter="cryptography">CRYPTO</button>
+                    <button class="filter-chip" data-filter="blockchain">BC</button>
+                </div>
+            </div>
+
+            <!-- Upcoming Deadlines -->
+            <div id="upcoming-conferences" class="conferences-list">
+                <!-- JS will populate this -->
+            </div>
+
+            <hr class="separator">
+
+            <!-- Past Events -->
+            <h2>Past Events</h2>
+            <div id="past-conferences" class="conferences-list past-list">
+                <!-- JS will populate this -->
+            </div>
+
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; <span id="current-year"></span> Abolfazl Younesi. All rights reserved.</p>
+            <p class="last-updated">Last updated: <span id="last-updated-date">January 2026</span></p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/main.js"></script>
+    <script src="js/deadlines.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Adaptive Resource Allocation in Federated Learning Systems",
+        "venue": "European Conference on Parallel Processing (Euro-Par 2025)",
+        "date": "August 2025",
+        "slides": "files/slides/europar2025.pdf"
+    },
+    {
+        "title": "Time-Sensitive Scheduling for Distributed Stream Processing",
+        "venue": "IEEE International Conference on Distributed Computing Systems (ICDCS 2024)",
+        "date": "July 2024",
+        "slides": "files/slides/icdcs2024.pdf"
+    },
+    {
+        "title": "Challenges in Computing Continuum: From Edge to Cloud",
+        "venue": "DPS Group Seminar, University of Innsbruck",
+        "date": "March 2024",
+        "slides": "files/slides/dps-seminar-2024.pdf"
+    },
+    {
+        "title": "Privacy-Preserving Techniques in Federated Learning",
+        "venue": "Austrian Computer Science Day",
+        "date": "November 2023",
+        "slides": "files/slides/austrian-cs-day-2023.pdf"
+    },
+    {
+        "title": "Resource Management in Edge Computing: State of the Art",
+        "venue": "PhD Symposium, University of Innsbruck",
+        "date": "June 2023",
+        "slides": "files/slides/phd-symposium-2023.pdf"
+    }
+]

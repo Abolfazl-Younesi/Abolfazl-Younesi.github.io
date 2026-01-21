@@ -1,0 +1,56 @@
+[
+    {
+        "course": "High Performance Computing",
+        "role": "University Assistant",
+        "semester": "Sep 2025 - Present",
+        "description": "Instructor for Master's level course at University of Innsbruck."
+    },
+    {
+        "course": "Internet of Things",
+        "role": "Teaching Assistant",
+        "semester": "2022 - 2024",
+        "description": "Conducted lab sessions and graded assignments for undergraduate students. Instructor: Dr. Mohsen Ansari (Sharif University of Technology)."
+    },
+    {
+        "course": "Embedded Systems",
+        "role": "Teaching Assistant",
+        "semester": "2022 - 2024",
+        "description": "Conducted lab sessions and graded assignments for undergraduate students. Instructor: Dr. Mohsen Ansari (Sharif University of Technology)."
+    },
+    {
+        "course": "Real-Time Systems",
+        "role": "Teaching Assistant",
+        "semester": "2022 - 2024",
+        "description": "Assessed student assignments and provided personalized mentoring. Instructor: Dr. Mohsen Ansari (Sharif University of Technology)."
+    },
+    {
+        "course": "Logic Circuits Lab",
+        "role": "Teaching Assistant",
+        "semester": "2022 - 2024",
+        "description": "Supervised lab activities and evaluated student performance. Instructor: Dr. Mohsen Ansari (Sharif University of Technology)."
+    },
+    {
+        "course": "Digital Systems Design Lab",
+        "role": "Teaching Assistant",
+        "semester": "2022 - 2024",
+        "description": "Guided hardware implementation projects and provided academic support. Instructors: Drs. Ansari & Ejlali (Sharif University of Technology)."
+    },
+    {
+        "course": "Hardware Lab",
+        "role": "Teaching Assistant",
+        "semester": "2022 - 2024",
+        "description": "Assisted students with practical circuit design and testing. Instructor: Dr. Alireza Ejlali (Sharif University of Technology)."
+    },
+    {
+        "course": "Low Power Design Systems",
+        "role": "Teaching Assistant",
+        "semester": "2022 - 2024",
+        "description": "Evaluated graduate student submissions and offered consultations. Instructor: Dr. Alireza Ejlali (Sharif University of Technology)."
+    },
+    {
+        "course": "Internship Course",
+        "role": "Teaching Assistant",
+        "semester": "2022 - 2024",
+        "description": "Supervised undergraduate research projects and progress evaluations. Instructor: Dr. Mohsen Ansari (Sharif University of Technology)."
+    }
+]

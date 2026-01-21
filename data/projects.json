@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Federated Learning Framework for Edge Devices",
+        "description": "An open-source framework for deploying federated learning models on resource-constrained edge devices with privacy-preserving mechanisms and adaptive aggregation strategies. Implements multi-dimensional reputation system for robust client reliability.",
+        "technologies": "Python, TensorFlow, PyTorch, gRPC, Docker",
+        "github": "https://github.com/[USERNAME]/federated-edge"
+    },
+    {
+        "title": "AutoStreamPipe - LLM-Assisted Stream Processing",
+        "description": "Automatic generation of data stream processing pipelines using large language models. Enables developers to create complex streaming applications through natural language descriptions.",
+        "technologies": "Python, Apache Flink, LLMs, Docker, Kubernetes",
+        "github": "https://github.com/[USERNAME]/autostreampipe"
+    },
+    {
+        "title": "Splitwise - Edge-Cloud LLM Inference",
+        "description": "Collaborative edge-cloud inference system for large language models using Lyapunov-assisted deep reinforcement learning for optimal model splitting and resource allocation.",
+        "technologies": "Python, PyTorch, Ray, Kubernetes",
+        "github": "https://github.com/[USERNAME]/splitwise"
+    },
+    {
+        "title": "GAP - Game Theory-based Fog Computing",
+        "description": "Game theory-based approach for reliability and power management in emerging fog computing environments with dynamic workload adaptation.",
+        "technologies": "Python, SimPy, NetworkX",
+        "github": "https://github.com/[USERNAME]/gap-fog"
+    },
+    {
+        "title": "MOTICPS - Multi-Objective Task Scheduling",
+        "description": "Energy optimization framework for multi-objective task scheduling in IoT-integrated cyber-physical systems with real-time constraints.",
+        "technologies": "Python, CPLEX, Docker",
+        "github": "https://github.com/[USERNAME]/moticps"
+    },
+    {
+        "title": "Levy Walk-based Edge Scheduler",
+        "description": "Novel scheduling framework for power-intensive mobile edge computing tasks using Levy Walk optimization for improved energy efficiency.",
+        "technologies": "Python, NumPy, Matplotlib",
+        "github": "https://github.com/[USERNAME]/levy-scheduler"
+    }
+]

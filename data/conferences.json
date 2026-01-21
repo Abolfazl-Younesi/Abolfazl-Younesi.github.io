@@ -1,0 +1,1043 @@
+[
+    {
+        "title": "SIGMETRICS 2026",
+        "full_name": "ACM Special Interest Group on Measurement and Evaluation",
+        "link": "https://www.sigmetrics.org/sigmetrics2026/",
+        "date": "June 8-12, 2026",
+        "location": "Ann Arbor, Michigan, USA",
+        "deadline": "2026-01-14T12:59:00+01:00",
+        "rank": "CCF B, CORE A*, THCPL A",
+        "note": "winter round",
+        "tags": [
+            "performance",
+            "architecture"
+        ],
+        "id": "sigmetrics2026"
+    },
+    {
+        "title": "ICDCS 2026",
+        "full_name": "IEEE International Conference on Distributed Computing Systems",
+        "link": "http://icdcs2026.icdcs.org/",
+        "date": "June 22-25, 2026",
+        "location": "Seoul, South Korea",
+        "deadline": "2026-01-15T12:59:59+01:00",
+        "rank": "CCF B, CORE A, THCPL B",
+        "note": "abstract deadline on Jan 8, 2026.",
+        "tags": [
+            "distributed systems",
+            "architecture"
+        ],
+        "id": "icdcs2026"
+    },
+    {
+        "title": "CCS 2026",
+        "full_name": "ACM Conference on Computer and Communications Security",
+        "link": "https://www.sigsac.org/ccs/CCS2026/",
+        "date": "November 15-19, 2026",
+        "location": "World Forum, Hague, Netherlands",
+        "deadline": "2026-01-15T12:59:59+01:00",
+        "rank": "CCF A, CORE A*, THCPL A",
+        "note": "First Review Cycle",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "ccs2026"
+    },
+    {
+        "title": "CHES 2026",
+        "full_name": "International Conference on Cryptographic Hardware and Embedded Systems",
+        "link": "https://ches.iacr.org/2026/",
+        "date": "October 11-15, 2026",
+        "location": "Türkiye",
+        "deadline": "2026-01-16T12:59:59+01:00",
+        "rank": "CCF B, CORE A, THCPL A",
+        "note": "Schedule for TCHES Volume 2026/3",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "ches2026"
+    },
+    {
+        "title": "ICDF2C 2026",
+        "full_name": "International Conference on Digital Forensics & Cyber Crime",
+        "link": "https://icdf2c.eai-conferences.org/2026/",
+        "date": "September 8-10, 2026",
+        "location": "Reykjavik, Iceland",
+        "deadline": "2026-01-21T12:59:59+01:00",
+        "rank": "CCF C",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "icdf2c2026"
+    },
+    {
+        "title": "ACNS 2026",
+        "full_name": "Applied Cryptography and Network Security",
+        "link": "https://acns2026.github.io/index.html",
+        "date": "June 22-25, 2026",
+        "location": "New York, United States",
+        "deadline": "2026-01-24T12:59:59+01:00",
+        "rank": "CCF C, CORE B, THCPL B",
+        "note": "Cycle 2 Submission deadline",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "acns2026"
+    },
+    {
+        "title": "CSFW 2026",
+        "full_name": "IEEE Computer Security Foundations Workshop",
+        "link": "https://csf2026.ieee-security.org/",
+        "date": "July 26-29, 2026",
+        "location": "Lisbon, Portugal",
+        "deadline": "2026-01-30T12:59:59+01:00",
+        "rank": "CCF B, CORE A, THCPL B",
+        "note": "Winter",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "csfw2026"
+    },
+    {
+        "title": "SAC 2026",
+        "full_name": "Selected Areas in Cryptography",
+        "link": "https://sacworkshop.org/SAC26/",
+        "date": "August 24-28, 2026",
+        "location": "Ottawa, Ontario, Canada",
+        "deadline": "2026-02-03T12:59:59+01:00",
+        "rank": "CCF C, CORE B, THCPL B",
+        "note": "Paper submission deadline (cycle 1)",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "sac2026"
+    },
+    {
+        "title": "USENIX Security 2026",
+        "full_name": "USENIX Security Symposium",
+        "link": "https://www.usenix.org/conference/usenixsecurity26",
+        "date": "August 12-14, 2026",
+        "location": "Baltimore, MD, USA",
+        "deadline": "2026-02-06T12:59:59+01:00",
+        "rank": "CCF A, CORE A*, THCPL A",
+        "note": "Cycle 2 Deadline",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "usenixsec2026"
+    },
+    {
+        "title": "DIMVA 2026",
+        "full_name": "Detection of Intrusions and Malware & Vulnerability Assessment",
+        "link": "https://www.dimva.org/dimva2026/",
+        "date": "July 1-3, 2026",
+        "location": "Chania, Greece",
+        "deadline": "2026-02-12T12:59:59+01:00",
+        "rank": "CCF C, CORE C, THCPL B",
+        "note": "Cycle 2 submission deadline",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "dimva2026"
+    },
+    {
+        "title": "CRYPTO 2026",
+        "full_name": "International Cryptology Conference",
+        "link": "https://crypto.iacr.org/2026/",
+        "date": "August 17-20, 2026",
+        "location": "Santa Barbara, USA",
+        "deadline": "2026-02-13T12:59:59+01:00",
+        "rank": "CCF A, CORE A*, THCPL A",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "crypto2026"
+    },
+    {
+        "title": "IH&MMSec 2026",
+        "full_name": "ACM Workshop on Information Hiding and Multimedia Security",
+        "link": "https://www.ihmmsec.org/cms/home/home2026.html",
+        "date": "June 17-19, 2026",
+        "location": "Florence, Italy",
+        "deadline": "2026-02-17T12:59:59+01:00",
+        "rank": "CCF C, CORE C, THCPL B",
+        "note": "Submission Deadline",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "ihmmsec2026"
+    },
+    {
+        "title": "ACISP 2026",
+        "full_name": "Australasia Conference on Information Security and Privacy",
+        "link": "https://acisp-conference.github.io/acisp2026/index.html",
+        "date": "July 6-9, 2026",
+        "location": "Perth, Australia",
+        "deadline": "2026-02-27T12:59:59+01:00",
+        "rank": "CCF C",
+        "note": "2nd round Deadline",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "acisp2026"
+    },
+    {
+        "title": "PETS 2026",
+        "full_name": "Privacy Enhancing Technologies Symposium",
+        "link": "https://petsymposium.org/cfp26.php",
+        "date": "July 20-25, 2026",
+        "location": "Calgary, Canada",
+        "deadline": "2026-03-01T12:59:59+01:00",
+        "rank": "CCF C, CORE A, THCPL B",
+        "note": "Issue 4 Paper Submission Deadline",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "pets2026"
+    },
+    {
+        "title": "SACMAT 2026",
+        "full_name": "ACM Symposium on Access Control Models and Technologies",
+        "link": "https://www.sacmat.org/2026/index.php",
+        "date": "July 8-10, 2026",
+        "location": "Waterloo, Canada",
+        "deadline": "2026-03-03T12:59:59+01:00",
+        "rank": "CCF C, CORE C",
+        "note": "Second Cycle",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "sacmat2026"
+    },
+    {
+        "title": "WiSec 2026",
+        "full_name": "ACM Conference on Security and Privacy in Wireless and Mobile Networks",
+        "link": "https://wisec26.events.cispa.de/",
+        "date": "June 30 - July 3, 2026",
+        "location": "Saarbrücken, Germany",
+        "deadline": "2026-03-04T12:59:59+01:00",
+        "rank": "CCF C, CORE B, THCPL B",
+        "note": "Second Cycle deadline",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "wisec2026"
+    },
+    {
+        "title": "ESORICS 2026",
+        "full_name": "European Symposium on Research in Computer Security",
+        "link": "https://sites.google.com/di.uniroma1.it/esorics2026/home",
+        "date": "September, 2026",
+        "location": "Rome, Italy",
+        "deadline": "2026-04-22T12:59:59+01:00",
+        "rank": "CCF B, CORE A, THCPL B",
+        "note": "Second Submission deadline",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "esorics2026"
+    },
+    {
+        "title": "TrustCom 2026",
+        "full_name": "IEEE International Conference on Trust, Security and Privacy in Computing and Communications",
+        "link": "https://collaboratecom.eai-conferences.org/2026/",
+        "date": "November 14 - 15, 2026",
+        "location": "Hong Kong SAR, China",
+        "deadline": "2026-05-01T16:59:59+01:00",
+        "rank": "CCF C, CORE B",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "trustcom2026"
+    },
+    {
+        "title": "ECCV 2026",
+        "full_name": "European Conference on Computer Vision",
+        "link": "https://eccv.ecva.net/",
+        "date": "September 8 - 13, 2026",
+        "location": "Malmö, Sweden",
+        "deadline": "2026-03-06T22:00:00+01:00",
+        "rank": "CCF B, CORE A*, THCPL A",
+        "tags": [
+            "AI"
+        ],
+        "id": "eccv2026"
+    },
+    {
+        "title": "ICANN 2026",
+        "full_name": "International Conference on Artificial Neural Networks",
+        "link": "https://e-nns.org/icann2026/",
+        "date": "Sept 14-17, 2026",
+        "location": "University of Padua, Italy",
+        "deadline": "2026-03-17T12:59:59+01:00",
+        "rank": "CCF C, CORE C",
+        "tags": [
+            "AI"
+        ],
+        "id": "icann2026"
+    },
+    {
+        "title": "ICCBR 2026",
+        "full_name": "International Conference on Case-Based Reasoning",
+        "link": "https://2026.iccbr.org/",
+        "date": "August 13-16, 2026",
+        "location": "Bremen, Germany",
+        "deadline": "2026-03-21T12:59:59+01:00",
+        "rank": "CCF B, CORE C",
+        "tags": [
+            "AI"
+        ],
+        "id": "iccbr2026"
+    },
+    {
+        "title": "PPSN 2026",
+        "full_name": "International Conference on Parallel Problem Solving From Nature",
+        "link": "https://ppsn2026.disi.unitn.it/",
+        "date": "August 29-September 2, 2026",
+        "location": "University of Trento, Trento, Italy",
+        "deadline": "2026-03-29T12:59:59+01:00",
+        "rank": "CCF B, CORE A",
+        "tags": [
+            "AI"
+        ],
+        "id": "ppsn2026"
+    },
+    {
+        "title": "COLM 2026",
+        "full_name": "Conference on Language Modeling",
+        "link": "https://colmweb.org",
+        "date": "October 6-9, 2026",
+        "location": "Hilton Union Square, San Francisco, USA",
+        "deadline": "2026-04-01T12:59:59+01:00",
+        "rank": "Non-CCF",
+        "note": "abstract deadline on Mar 27, 2026.",
+        "tags": [
+            "AI"
+        ],
+        "id": "colm2026"
+    },
+    {
+        "title": "IJCB 2026",
+        "full_name": "International Joint Conference on Biometrics",
+        "link": "https://ijcb2026.ieee-biometrics.org/",
+        "date": "September 1-4, 2026",
+        "location": "Rome, Italy",
+        "deadline": "2026-04-11T12:59:59+01:00",
+        "rank": "CCF C, CORE B",
+        "tags": [
+            "AI"
+        ],
+        "id": "ijcb2026"
+    },
+    {
+        "title": "RuleML+RR 2026",
+        "full_name": "International Joint Conference on Rules and Reasoning",
+        "link": "https://2026.declarativeai.net/events/ruleml-rr",
+        "date": "August 24-26, 2026",
+        "location": "Vilnius, Lithuania",
+        "deadline": "2026-05-16T12:59:59+01:00",
+        "rank": "Non-CCF, CORE B",
+        "note": "abstract deadline on May 9, 2026.",
+        "tags": [
+            "AI"
+        ],
+        "id": "ruleml2026"
+    },
+    {
+        "title": "ACCV 2026",
+        "full_name": "Asian Conference on Computer Vision",
+        "link": "https://accv2026.org/",
+        "date": "December 14-18, 2026",
+        "location": "Osaka, japan",
+        "deadline": "2026-07-06T12:59:59+01:00",
+        "rank": "CCF C, CORE B",
+        "tags": [
+            "AI"
+        ],
+        "id": "accv2026"
+    },
+    {
+        "title": "BMVC 2026",
+        "full_name": "British Machine Vision Conference",
+        "link": "https://bmvc2026.bmva.org/",
+        "date": "November 23-26, 2026",
+        "location": "Lancaster, UK",
+        "deadline": "TBD",
+        "rank": "CCF C, CORE A, THCPL B",
+        "note": "pull request to update",
+        "tags": [
+            "AI"
+        ],
+        "id": "bmvc2026"
+    },
+    {
+        "title": "KSEM 2026",
+        "full_name": "International Conference on Knowledge Science, Engineering and Management",
+        "link": "https://ksem2026.rosc.org.cn/",
+        "date": "July 17-19, 2026",
+        "location": "Beijing, China",
+        "deadline": "2026-01-16T00:59:59+01:00",
+        "rank": "CCF C, CORE C",
+        "tags": [
+            "AI"
+        ],
+        "id": "ksem2026"
+    },
+    {
+        "title": "FG 2026",
+        "full_name": "International Conference on Automatic Face and Gesture Recognition",
+        "link": "https://fg2026.ieee-biometrics.org/",
+        "date": "May 25-29, 2026",
+        "location": "Kyoto, Japan",
+        "deadline": "2026-01-16T08:59:59+01:00",
+        "rank": "CCF C, CORE B, THCPL B",
+        "note": "Round 2",
+        "tags": [
+            "AI"
+        ],
+        "id": "fg2026"
+    },
+    {
+        "title": "IJCAI 2026",
+        "full_name": "International Joint Conference on Artificial Intelligence",
+        "link": "https://2026.ijcai.org/",
+        "date": "August 15-21, 2026",
+        "location": "Bremen, Germany",
+        "deadline": "2026-01-20T12:59:59+01:00",
+        "rank": "CCF A, CORE A*, THCPL B",
+        "note": "abstract deadline on Jan 13, 2026.",
+        "tags": [
+            "AI"
+        ],
+        "id": "ijcai2026"
+    },
+    {
+        "title": "GECCO 2026",
+        "full_name": "Genetic and Evolutionary Computation Conference",
+        "link": "https://gecco-2026.sigevo.org/HomePage",
+        "date": "July 13-17, 2026",
+        "location": "San José, Costa Rica (hybrid)",
+        "deadline": "2026-01-27T12:59:00+01:00",
+        "rank": "CCF C, CORE A, THCPL B",
+        "note": "Full papers (traditional category)",
+        "tags": [
+            "AI"
+        ],
+        "id": "gecco2026"
+    },
+    {
+        "title": "ICML 2026",
+        "full_name": "International Conference on Machine Learning",
+        "link": "https://icml.cc/Conferences/2026",
+        "date": "July 6-12, 2026",
+        "location": "Seoul, Korea",
+        "deadline": "2026-01-29T12:59:59+01:00",
+        "rank": "CCF A, CORE A*, THCPL A",
+        "tags": [
+            "AI"
+        ],
+        "id": "icml2026"
+    },
+    {
+        "title": "RSS 2026",
+        "full_name": "Robotics Science and Systems",
+        "link": "https://roboticsconference.org",
+        "date": "July 13-17, 2026",
+        "location": "Sydney, Australia",
+        "deadline": "2026-01-31T12:59:00+01:00",
+        "rank": "Non-CCF, CORE A*, THCPL A",
+        "note": "abstract deadline on Jan 24, 2026.",
+        "tags": [
+            "AI"
+        ],
+        "id": "rss2026"
+    },
+    {
+        "title": "IJCNN 2026",
+        "full_name": "International Joint Conference on Neural Networks",
+        "link": "https://attend.ieee.org/wcci-2026/",
+        "date": "June 21 - 26, 2026",
+        "location": "Maastricht Exhibition & Congress Center, Maastricht, The Netherlands",
+        "deadline": "2026-02-01T12:59:59+01:00",
+        "rank": "CCF C, CORE B, THCPL B",
+        "tags": [
+            "AI"
+        ],
+        "id": "ijcnn2026"
+    },
+    {
+        "title": "KR 2026",
+        "full_name": "International Conference on Principles of Knowledge Representation and Reasoning",
+        "link": "https://kr.org/KR2026/",
+        "date": "July 20-23, 2026",
+        "location": "Lisbon, Portugal",
+        "deadline": "2026-02-14T12:59:59+01:00",
+        "rank": "CCF B, CORE A*",
+        "note": "abstract deadline on Feb 9, 2026.",
+        "tags": [
+            "AI"
+        ],
+        "id": "kr2026"
+    },
+    {
+        "title": "CoNLL 2026",
+        "full_name": "Conference on Computational Natural Language Learning",
+        "link": "https://www.conll.org/",
+        "date": "July 3 - 4, 2026",
+        "location": "San Diego, California, United States",
+        "deadline": "2026-02-20T12:59:59+01:00",
+        "rank": "CCF C, CORE B",
+        "tags": [
+            "AI"
+        ],
+        "id": "conll2026"
+    },
+    {
+        "title": "ICDAR 2026",
+        "full_name": "International Conference on Document Analysis and Recognition",
+        "link": "https://icdar2026.org/",
+        "date": "August 30 - September 4, 2026",
+        "location": "Vienna, Austria",
+        "deadline": "2026-02-28T00:59:59+01:00",
+        "rank": "CCF C, CORE A, THCPL B",
+        "note": "abstract deadline on Feb 14, 2026.",
+        "tags": [
+            "AI"
+        ],
+        "id": "icdar2026"
+    },
+    {
+        "title": "SIGMOD 2027",
+        "full_name": "ACM Conference on Management of Data",
+        "link": "https://2027.sigmod.org/",
+        "date": "June 13-19, 2027",
+        "location": "Huntington Beach, CA, USA",
+        "deadline": "2026-01-18T12:59:00+01:00",
+        "rank": "CCF A, CORE A*, THCPL A",
+        "note": "round 1",
+        "tags": [
+            "database"
+        ],
+        "id": "sigmod2027"
+    },
+    {
+        "title": "SIGIR 2026",
+        "full_name": "International Conference on Research on Development in Information Retrieval",
+        "link": "https://sigir2026.org/en-AU",
+        "date": "July 20-24, 2026",
+        "location": "Melbourne, Australia",
+        "deadline": "2026-01-23T12:59:59+01:00",
+        "rank": "CCF A, CORE A*, THCPL A",
+        "note": "abstract deadline on Jan 16, 2026.",
+        "tags": [
+            "database"
+        ],
+        "id": "sigir2026"
+    },
+    {
+        "title": "VLDB 2026",
+        "full_name": "International Conference on Very Large Data Bases",
+        "link": "https://www.vldb.org/2026/",
+        "date": "August 31 - September 4, 2026",
+        "location": "Boston, MA, USA",
+        "deadline": "2026-02-02T01:00:00+01:00",
+        "rank": "CCF A, CORE A*, THCPL A",
+        "tags": [
+            "database"
+        ],
+        "id": "vldb2026"
+    },
+    {
+        "title": "SIGKDD 2026",
+        "full_name": "ACM Knowledge Discovery and Data Mining",
+        "link": "https://kdd2026.kdd.org/",
+        "date": "August 9-13, 2026",
+        "location": "Jeju, Korea",
+        "deadline": "2026-02-09T12:59:59+01:00",
+        "rank": "CCF A, CORE A*, THCPL A",
+        "note": "2nd round of 2 total rounds",
+        "tags": [
+            "database"
+        ],
+        "id": "kdd2026"
+    },
+    {
+        "title": "ICDM 2026",
+        "full_name": "IEEE International Conference on Data Mining",
+        "link": "http://icdm2026.neu.edu.cn/",
+        "date": "November 12-15, 2026",
+        "location": "Shenyang, China",
+        "deadline": "2026-06-07T12:59:59+01:00",
+        "rank": "CCF B, CORE A*, THCPL B",
+        "note": "abstract deadline on May 31, 2026.",
+        "tags": [
+            "database"
+        ],
+        "id": "icdm2026"
+    },
+    {
+        "title": "ADMA 2026",
+        "full_name": "The International Conference on Advanced Data Mining and Applications",
+        "link": "https://adma2026.github.io/",
+        "date": "November 1 - 3, 2026",
+        "location": "Hong Kong, China",
+        "deadline": "TBD",
+        "rank": "CCF C, CORE C",
+        "note": "pull request to update",
+        "tags": [
+            "database"
+        ],
+        "id": "adma2026"
+    },
+    {
+        "title": "ISWC 2026",
+        "full_name": "International Semantic Web Conference",
+        "link": "https://iswc2026.semanticweb.org/",
+        "date": "October 25-29, 2026",
+        "location": "Bari, Italy",
+        "deadline": "TBD",
+        "rank": "CCF B, CORE A, THCPL B",
+        "note": "pull request to update",
+        "tags": [
+            "database"
+        ],
+        "id": "iswc2026"
+    },
+    {
+        "title": "ECML-PKDD 2026",
+        "full_name": "European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases",
+        "link": "https://ecmlpkdd.org/2026/",
+        "date": "September 7-11, 2026",
+        "location": "Naples, Italy",
+        "deadline": "TBD",
+        "rank": "CCF B, CORE A",
+        "note": "pull request to update",
+        "tags": [
+            "database"
+        ],
+        "id": "ecmlpkdd2026"
+    },
+    {
+        "title": "RecSys 2026",
+        "full_name": "ACM Conference on Recommender Systems",
+        "link": "https://recsys.acm.org/recsys26",
+        "date": "September 28 - October 2, 2026",
+        "location": "Minneapolis, Minnesota, USA",
+        "deadline": "TBD",
+        "rank": "CCF B, CORE A, THCPL B",
+        "note": "pull request to update",
+        "tags": [
+            "database"
+        ],
+        "id": "recsys2026"
+    },
+    {
+        "title": "CIDR 2026",
+        "full_name": "International Conference on Innovative Data Systems Research",
+        "link": "https://www.cidrdb.org/cidr2026/",
+        "date": "Jan 18-21, 2026",
+        "location": "Chaminade Resort & Spa, Santa Cruz, California, USA",
+        "deadline": "2025-08-06T07:59:59+01:00",
+        "rank": "CCF B, CORE A",
+        "tags": [
+            "database"
+        ],
+        "id": "cidr2026"
+    },
+    {
+        "title": "ISC 2026",
+        "full_name": "Information Security Conference",
+        "link": "https://isc2026.github.io/",
+        "date": "TBD",
+        "location": "TBD",
+        "deadline": "TBD",
+        "rank": "CCF C, CORE A",
+        "tags": [
+            "security",
+            "network"
+        ],
+        "id": "isc2026"
+    },
+    {
+        "title": "Middleware 2026",
+        "full_name": "ACM/IFIP International Middleware Conference",
+        "link": "https://middleware-conf.github.io/2026/",
+        "date": "November 30-December 4, 2026",
+        "location": "Terragona, Spain",
+        "deadline": "2026-06-05T23:59:59+02:00",
+        "rank": "A2",
+        "note": "Summer Submission Cycle",
+        "tags": [
+            "distributed systems",
+            "blockchain",
+            "event-based systems"
+        ],
+        "id": "middleware2026"
+    },
+    {
+        "title": "SOSP 2025",
+        "full_name": "ACM Symposium on Operating Systems Principles",
+        "link": "https://sosp2025.github.io/",
+        "date": "October 13-16, 2025",
+        "location": "Seoul, Republic of Korea",
+        "deadline": "2025-04-17T23:59:59+02:00",
+        "rank": "A1",
+        "tags": [
+            "distributed systems",
+            "software engineering"
+        ],
+        "id": "sosp2025"
+    },
+    {
+        "title": "HPCC 2025",
+        "full_name": "International Conferences on High Performance Computing and Communications",
+        "link": "https://hpcc-conf.github.io/",
+        "date": "August 13-15, 2025",
+        "location": "Exter, UK",
+        "deadline": "2025-04-30T23:59:59+02:00",
+        "rank": "B",
+        "tags": [
+            "distributed systems",
+            "blockchain"
+        ],
+        "id": "hpcc2025"
+    },
+    {
+        "title": "IEEE ACSOS 2025",
+        "full_name": "IEEE International Conference on Autonomic Computing and Self-Organizing Systems",
+        "link": "https://acsos.github.io/2025/",
+        "date": "Sept 29-Oct 3, 2025",
+        "location": "Tokyo, Japan",
+        "deadline": "2025-04-25T23:59:59+02:00",
+        "tags": [
+            "distributed systems",
+            "software engineering",
+            "performance"
+        ],
+        "id": "acsos2025"
+    },
+    {
+        "title": "ISIT 2026",
+        "full_name": "IEEE International Symposium on Information Theory",
+        "link": "https://2026.ieee-isit.org/",
+        "date": "June 28 - July 3, 2026",
+        "location": "Guangzhou, China",
+        "deadline": "2026-01-17T12:59:59+01:00",
+        "rank": "Non-CCF, CORE B, THCPL B",
+        "tags": [
+            "theory"
+        ],
+        "id": "isit2026"
+    },
+    {
+        "title": "ICWSM 2026",
+        "full_name": "The International AAAI Conference on Web and Social Media",
+        "link": "https://www.icwsm.org/2026/index.html",
+        "date": "May 27-29, 2026",
+        "location": "Los Angeles, CA, USA",
+        "deadline": "2026-01-16T12:59:59+01:00",
+        "rank": "CCF B, CORE A",
+        "note": "3rd Full-paper Deadline",
+        "tags": [
+            "HCI"
+        ],
+        "id": "icwsm2026"
+    },
+    {
+        "title": "BIS 2026",
+        "full_name": "International Conference on Business Information Systems",
+        "link": "https://bisconf.org/2026/",
+        "date": "June 10-12, 2026",
+        "location": "Prague, Czech Republic",
+        "deadline": "2026-01-16T12:59:59+01:00",
+        "rank": "Non-CCF",
+        "tags": [
+            "interdiscipline"
+        ],
+        "id": "bis2026"
+    },
+    {
+        "title": "SIGCOMM 2026",
+        "full_name": "ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+        "link": "https://conferences.sigcomm.org/sigcomm/2026/",
+        "date": "TBD",
+        "location": "Denver, Colorado, USA",
+        "deadline": "2026-02-07T12:59:59+01:00",
+        "rank": "CCF A, CORE A*, THCPL A",
+        "note": "abstract deadline on Jan 31, 2026.",
+        "tags": [
+            "network",
+            "system"
+        ],
+        "id": "sigcomm2026"
+    },
+    {
+        "title": "IWQoS 2026",
+        "full_name": "IEEE/ACM International Symposium on Quality of Service",
+        "link": "https://iwqos2026.ieee-iwqos.org/",
+        "date": "29 June - 2 July, 2026",
+        "location": "Dubai, United Arab Emirates",
+        "deadline": "2026-02-10T12:59:59+01:00",
+        "rank": "CCF B, CORE B, THCPL B",
+        "note": "abstract deadline on Feb 3, 2026.",
+        "tags": [
+            "network",
+            "system"
+        ],
+        "id": "iwqos2026"
+    },
+    {
+        "title": "ICCCN 2026",
+        "full_name": "IEEE International Conference on Computer Communications and Networks",
+        "link": "http://www.icccn.org/ICCCN26/",
+        "date": "July 27-30, 2026",
+        "location": "Honolulu, Hawaii, USA",
+        "deadline": "2026-02-14T10:59:59+01:00",
+        "rank": "CCF C, CORE B",
+        "tags": [
+            "network",
+            "system"
+        ],
+        "id": "icccn2026"
+    },
+    {
+        "title": "MobiCom 2026",
+        "full_name": "ACM Annual International Conference On Mobile Computing And Networking",
+        "link": "https://sigmobile.org/mobicom/2026/",
+        "date": "November, 2026",
+        "location": "Austin, Texas, USA",
+        "deadline": "2026-03-14T12:59:59+01:00",
+        "rank": "CCF A, CORE A*, THCPL A",
+        "note": "Winter Deadlines",
+        "tags": [
+            "network",
+            "system"
+        ],
+        "id": "mobicom2026"
+    },
+    {
+        "title": "WASA 2026",
+        "full_name": "International Conference on Wireless Algorithms, Systems, and Applications",
+        "link": "http://wasa-conference.org/WASA2026/",
+        "date": "July 6-9, 2026",
+        "location": "Xi'an, China",
+        "deadline": "2026-03-16T12:59:59+01:00",
+        "rank": "CCF C",
+        "tags": [
+            "network",
+            "system"
+        ],
+        "id": "wasa2026"
+    },
+    {
+        "title": "IMC 2026",
+        "full_name": "ACM Internet Measurement Conference",
+        "link": "https://conferences.sigcomm.org/imc/2026/",
+        "date": "November 03-06, 2026",
+        "location": "Karlsruhe, Germany",
+        "deadline": "2026-04-30T12:59:59+01:00",
+        "rank": "CCF B, CORE A, THCPL A",
+        "note": "Cycle 2 Deadline",
+        "tags": [
+            "network",
+            "system"
+        ],
+        "id": "imc2026"
+    },
+    {
+        "title": "CoNEXT 2026",
+        "full_name": "International Conference on Emerging Networking Experiments and Technologies",
+        "link": "https://conferences.sigcomm.org/co-next/2026/#!/home",
+        "date": "December 7-10, 2026",
+        "location": "Utrecht, The Netherlands",
+        "deadline": "2026-06-06T12:59:59+01:00",
+        "rank": "CCF B, CORE A, THCPL A",
+        "note": "June Cycle",
+        "tags": [
+            "network",
+            "system"
+        ],
+        "id": "conext2026"
+    },
+    {
+        "title": "FORTE 2026",
+        "full_name": "International Conference on Formal Techniques for (Networked and) Distributed Systems",
+        "link": "https://www.discotec.org/2026/forte",
+        "date": "June 8-12, 2026",
+        "location": "Urbino, Italy",
+        "deadline": "TBD",
+        "rank": "CCF C, CORE C",
+        "note": "pull request to update",
+        "tags": [
+            "network",
+            "system"
+        ],
+        "id": "forte2026"
+    },
+    {
+        "title": "GLOBECOM 2026",
+        "full_name": "IEEE Global Communications Conference",
+        "link": "https://globecom2026.ieee-globecom.org/",
+        "date": "December 7-11, 2026",
+        "location": "Macao, China",
+        "deadline": "TBD",
+        "rank": "CCF C, CORE B, THCPL B",
+        "note": "pull request to update",
+        "tags": [
+            "network",
+            "system"
+        ],
+        "id": "globecom2026"
+    },
+    {
+        "title": "EASE 2026",
+        "full_name": "International Conference on Evaluation and Assessment in Software Engineering",
+        "link": "https://conf.researchr.org/home/ease-2026",
+        "date": "June 9 - 12, 2026",
+        "location": "Glasgow, United Kingdom",
+        "deadline": "2026-01-24T12:59:59+01:00",
+        "rank": "CCF C, CORE A, THCPL B",
+        "note": "Research Papers",
+        "tags": [
+            "software engineering"
+        ],
+        "id": "ease2026"
+    },
+    {
+        "title": "ISSTA 2026",
+        "full_name": "ACM SIGSOFT International Symposium on Software Testing and Analysis",
+        "link": "https://conf.researchr.org/home/issta-2026",
+        "date": "October 3-9, 2026",
+        "location": "Oakland, California, United States",
+        "deadline": "2026-01-30T12:59:59+01:00",
+        "rank": "CCF A, CORE A, THCPL A",
+        "tags": [
+            "software engineering"
+        ],
+        "id": "issta2026"
+    },
+    {
+        "title": "COMPSAC 2026",
+        "full_name": "International Computer Software and Applications Conference",
+        "link": "https://ieeecompsac.computer.org/2026/",
+        "date": "July 7-10, 2026",
+        "location": "Madrid, Spain",
+        "deadline": "2026-02-01T12:59:59+01:00",
+        "rank": "CCF C, CORE B",
+        "tags": [
+            "software engineering"
+        ],
+        "id": "compsac2026"
+    },
+    {
+        "title": "EUSIPCO 2026",
+        "full_name": "IEEE Conference on Signal Processing",
+        "link": "https://eusipco2026.org/",
+        "date": "August 31 - September 4, 2026",
+        "location": "Bruges, Belgium",
+        "deadline": "2026-02-07T12:59:59+01:00",
+        "rank": "CCF B",
+        "tags": [
+            "software engineering"
+        ],
+        "id": "eusipco2026"
+    },
+    {
+        "title": "ICFP 2026",
+        "full_name": "International Conference on Function Programming",
+        "link": "https://icfp26.sigplan.org/",
+        "date": "August 24 - 29, 2026",
+        "location": "Indiana University Indianapolis, United States",
+        "deadline": "2026-02-20T12:59:59+01:00",
+        "rank": "CCF B, CORE A, THCPL B",
+        "tags": [
+            "software engineering"
+        ],
+        "id": "icfp2026"
+    },
+    {
+        "title": "ICSME 2026",
+        "full_name": "International Conference on Software Maintenance and Evolution",
+        "link": "https://conf.researchr.org/home/icsme-2026",
+        "date": "September 14-18, 2026",
+        "location": "Benevento, Italy",
+        "deadline": "2026-03-07T12:59:59+01:00",
+        "rank": "CCF B, CORE A, THCPL B",
+        "note": "Research Papers Track",
+        "tags": [
+            "software engineering"
+        ],
+        "id": "icsme2026"
+    },
+    {
+        "title": "OOPSLA 2026",
+        "full_name": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
+        "link": "https://conf.researchr.org/track/splash-2026/oopsla-2026",
+        "date": "October 3-9, 2026",
+        "location": "Oakland, California, United States",
+        "deadline": "2026-03-18T12:59:59+01:00",
+        "rank": "CCF A, CORE A, THCPL A",
+        "note": "Submission Deadline Round 2",
+        "tags": [
+            "software engineering"
+        ],
+        "id": "oopsla2026"
+    },
+    {
+        "title": "ASE 2026",
+        "full_name": "International Conference on Automated Software Engineering",
+        "link": "https://conf.researchr.org/home/ase-2026",
+        "date": "October 12 - 16, 2026",
+        "location": "Munich, Germany",
+        "deadline": "2026-03-27T12:59:59+01:00",
+        "rank": "CCF A, CORE A*, THCPL A",
+        "tags": [
+            "software engineering"
+        ],
+        "id": "ase2026"
+    },
+    {
+        "title": "SOSP 2026",
+        "full_name": "ACM Symposium on Operating Systems Principles",
+        "link": "https://sigops.org/s/conferences/sosp/2026/index.html",
+        "date": "September 29 - October 2, 2026",
+        "location": "Clarion Congress Hotel Prague, Prague, Czechia",
+        "deadline": "2026-04-02T12:59:59+01:00",
+        "rank": "CCF A, CORE A*, THCPL A",
+        "note": "abstract deadline on Mar 27, 2026.",
+        "tags": [
+            "software engineering"
+        ],
+        "id": "sosp2026"
+    },
+    {
+        "title": "CP 2026",
+        "full_name": "International Conference on Principles and Practice of Constraint Programming",
+        "link": "https://cp2026.a4cp.org/",
+        "date": "July 20-23, 2026",
+        "location": "Lisbon, Portugal",
+        "deadline": "TBD",
+        "rank": "CCF B, CORE A, THCPL B",
+        "note": "pull request to update",
+        "tags": [
+            "software engineering"
+        ],
+        "id": "cp2026"
+    }
+]
