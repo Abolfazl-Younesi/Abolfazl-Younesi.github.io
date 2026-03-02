@@ -1,6 +1,39 @@
 [
     {
         "type": "journal",
+        "title": "Pulse: Multi-objective scheduling of service-based applications in multi-cluster cloud–edge–IoT infrastructures",
+        "authors": [
+            "Marlon Etheredge",
+            "Juan Aznar Poveda",
+            "Stefan Pedratscher",
+            "Abolfazl Younesi",
+            "Thomas Fahringer",
+        ],
+        "venue": "Journal of Network and Computer Applications",
+        "meta": "February 2026",
+        "doi": "https://www.sciencedirect.com/science/article/pii/S1084804526000147",
+        "selected": true,
+        "pdf": "files/papers/Etheredge_2026_Pulse.pdf"
+    },
+    {
+        "type": "journal",
+        "title": "SIREN: Multi-Objective Game-Theoretic Scheduler based on Memory-Driven Grey Wolf Optimization in Fog-Cloud Computing",
+        "authors": [
+            "Abolfazl Younesi",
+            "Mohsen Ansari",
+            "Alireza Ejlali",
+            "Mohammad Amin Fazli",
+            "Muhammad Shafique",
+            "Jörg Henkel",
+        ],
+        "venue": "IEEE Internet of Things Journal",
+        "meta": "February 2026",
+        "doi": "https://ieeexplore.ieee.org/abstract/document/11404156",
+        "selected": true,
+        "pdf": "files/papers/Younesi_2026_SIREN.pdf"
+    },
+    {
+        "type": "journal",
         "title": "MOSAIC: Mobility-Oriented Scheduling and Intelligent Resource Allocation for IoT",
         "authors": [
             "Abolfazl Younesi",
