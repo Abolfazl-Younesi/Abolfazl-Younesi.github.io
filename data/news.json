@@ -1,5 +1,13 @@
 [
   {
+    "date": "February 2026",
+    "content":"Paper on <em>Pulse</em> published in <strong>Journal of Network and Computer Applications</strong> journal, exploring the synergistic integration of IoT, AI, and 6G."
+  },
+  {
+    "date": "February 2026",
+    "content": "Paper on <em>SIREN</em> published in <strong>IEEE Internet of Things</strong> journal, exploring the synergistic integration of IoT, AI, and 6G."
+  },
+  {
     "date": "January 2025",
     "content": "🏆 <strong>Achievement Unlocked:</strong> Awarded 3,500 node hours on the Leonardo BOOSTER supercomputer via EuroHPC Benchmark Access Call (EHPC-BEN-2025B12-013)!"
   },
@@ -10,13 +18,5 @@
   {
     "date": "January 2025",
     "content": "Paper on <em>HealthCare 5.0</em> published in <strong>Internet of Things</strong> journal, exploring the synergistic integration of IoT, AI, and 6G."
-  },
-  {
-    "date": "December 2024",
-    "content": "New preprint: <em>FLARE</em> - Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning (arXiv:2511.14715)."
-  },
-  {
-    "date": "November 2024",
-    "content": "Research on <em>AutoStreamPipe</em> (LLM-assisted stream pipelines) available on arXiv (arXiv:2510.23408)."
   }
 ]
